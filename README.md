@@ -1,4 +1,4 @@
-# DIO-LiveCoding-AWS-BigData
+# AWS-BigData
 Implementação de word count utilizando EMR na AWS.
 
 ## Instruções
